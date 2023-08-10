@@ -1,0 +1,7 @@
+{
+  "name": "academyCrop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
